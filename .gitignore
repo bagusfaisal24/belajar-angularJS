@@ -1,0 +1,14 @@
+_coverage
+_reports
+node_modules
+dist
+angular
+bower_components
+libs
+ansible-playbook.retry
+ansible-playbook.yml
+deploy.sh
+src/js/config.js
+npm-debug.log
+.idea
+patchesgit a
